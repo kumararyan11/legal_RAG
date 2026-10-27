@@ -1,0 +1,14 @@
+langchain>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-huggingface>=0.1
+langchain-openai>=0.2
+faiss-cpu>=1.8
+rank-bm25>=0.2.2
+sentence-transformers>=3.0
+transformers>=4.44
+torch
+pypdf>=4.0
+numpy
+streamlit>=1.36
+tqdm
